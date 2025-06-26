@@ -24,6 +24,10 @@
   <a href="https://www.linkedin.com/in/samyog-/">
     <img src="https://img.shields.io/badge/LinkedIn-SAMYOG%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
+    <a href="https://www.facebook.com/SAMYOG.DUBE">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Samyog Dube" 
+        </a>
+  
   <a href="mailto:not_a_real@proton.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
   </a>
