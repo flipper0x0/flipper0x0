@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samyog;A+Passionate+Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+Mobile+App+Devotee;Welcome+to+my+Tech+Journey+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samyog;UI%2FUX+Designer;Cybersecurity+Enthusiast;Mobile+App+Devotee;Welcome+to+my+Tech+Journey+%F0%9F%92%BB" alt="Typing SVG">
 </h3>
 
 <br>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-SAMYOG%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="mailto:not_a_real@proton.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
   </a>
 </div>
 
@@ -51,20 +51,20 @@
 
 ---
 
-> **🔑 Motto:** *If it EXISTS, it can be HACKED. If it's CONNECTED, it'll be ATTACKED. If it's PROTECTED, it'll be CRACKED.*
+> **🔑 :** *If it EXISTS, it can be HACKED. If it's CONNECTED, it'll be ATTACKED. If it's PROTECTED, it'll be CRACKED.*
 
 ---
 
 ## **👨‍💻 ABOUT ME**
 <div align="justify">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
-  Hi! I'm <b>Samyog  (flipper0x0)</b>, a <b>self-taught tech wizard</b> obsessed with <b>Full-Stack Development, Cybersecurity, and Mobile App Magic</b>. With a <b>noob-to-pro</b> mindset, I learn, break, and rebuild systems daily. My goal? Become a <b>versatile tech leader</b> crafting secure, scalable, and game-changing digital solutions.
+  Hi! I'm <b>Samyog Dube </b>, a <b>self-taught student</b> obsessed with <b>Full-Stack Development, Cybersecurity, and Mobile App Development</b>. I love reverse engineering, pentesting and breaking down things.
   <br><br>
   <b>🔍 Currently Mastering:</b>
   <ul>
-    <li>⚔️ <b>Offensive Security</b> (TryHackMe, Hack The Box)</li>
-    <li>📱 <b>Flutter & Dart</b> for cross-platform domination</li>
-    <li>🔒 <b>Cryptography</b> and unbreakable backend practices</li>
+    <li>⚔️ <b>Offensive Security</b> (HTB)</li>
+    <li>📱 <b>Flutter & Dart</b> </li>
+    <li>🔒 <b>Cryptography</b> </li>
   </ul>
   <b>💡 Creed:</b> <i>"Code is poetry; security is its rhythm."</i>
 </div>
@@ -139,22 +139,20 @@
 </div>
 
 ### **Phase 1: Foundations (In Progress 🚧)**
-- ✅ **JavaScript Fundamentals** (Udemy Course)
-- ✅ **Python Basics** (Codecademy)
-- 🔄 **React & REST APIs** (Building Projects)
-- 📅 **Target Completion**: 3 Months
+- ✅ **JavaScript Fundamentals**
+- ✅ **Python Basics**
+- 🔄 **React & REST APIs** 
+
 
 ### **Phase 2: Specialization 🔝**
-- 🔜 **Flutter & Dart** (Cross-Platform Apps)
-- 🔜 **Cybersecurity Intermediate** (TryHackMe, OSCP Prep)
-- 🔜 **Backend Mastery** (Django, Node.js Security)
-- 📅 **Target Completion**: 6-9 Months
-
+- 🔜 **Flutter & Dart** 
+- 🔜 **Cybersecurity Intermediate**
+- 🔜 **Backend Mastery**
+  
 ### **Phase 3: Mastery 🏆**
 - 🔮 **Red Teaming & Penetration Testing**
-- 🔮 **Full-Stack Security Best Practices**
 - 🔮 **Publishing My Own SDK/Library**
-- 📅 **Target Completion**: 12-18 Months
+
 
 <br>
 
@@ -170,13 +168,13 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/flipper0x0/ToDo-App"><b>ToDo App</b></a></td>
-      <td>Simple CRUD app with auth</td>
-      <td>React, Node.js, MongoDB</td>
+      <td><a href="https://github.com/flipper0x0/sortingvisualizer"><b>SORTING VISUALIZER</b></a></td>
+      <td>Simple Sorting using various Algo </td>
+      <td>C++</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/flipper0x0/Python-Automation"><b>Python Automation Scripts</b></a></td>
+      <td><a href="https://github.com/flipper0x0/em-"><b>Python Automation Scripts</b></a></td>
       <td>File sorter, email sender</td>
       <td>Python, SMTP</td>
       <td>📝 In Progress</td>
@@ -185,12 +183,6 @@
       <td><b>Secure Chat App</b></td>
       <td>End-to-end encrypted messaging</td>
       <td>Flutter, Firebase, AES</td>
-      <td>🔜 Planned</td>
-    </tr>
-    <tr>
-      <td><b>Vulnerability Scanner</b></td>
-      <td>Python-based network scanner</td>
-      <td>Python, Nmap, Shodan</td>
       <td>🔜 Planned</td>
     </tr>
   </table>
@@ -202,9 +194,7 @@
 
 ## **🏆 ACHIEVEMENTS & CERTIFICATIONS**
 - **Certified Ethical Hacker (CEH)**: 📚 Preparing
-- **Hack The Box**: 100+ Challenges Solved 🏔️
-- **TryHackMe**: Top 10% Learner 🔝
-- **Codecademy**: Full Stack Developer Path 🔓
+
 
 <br>
 
@@ -223,7 +213,7 @@
 
 ## **🤝 LET'S CONNECT!**
 <div align="center">
-  <a href="https://www.linkedin.com/in/samyog-/">
+  <a href="https://www.linkedin.com/in/samyog-dube/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/" target="_blank">
