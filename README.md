@@ -51,7 +51,7 @@
 
 ---
 
-> **🔑 :** *If it EXISTS, it can be HACKED. If it's CONNECTED, it'll be ATTACKED. If it's PROTECTED, it'll be CRACKED.*
+> **🔑 :** *Only Error I understand: `HTTP: 418 I'm a teapot.` *
 
 ---
 
@@ -224,6 +224,14 @@
   </a>
 </div>
 
+
+<p align="center">
+  <i>"Consistency is the key to mastery. 🔑"</i>
+</p>
+
+<p align="center">
+  <sub><i>Last updated: 🚀 Today! (Keep refreshing for magic ✨)</i></sub>
+</p>
 <br>
 
 <div align="center">
@@ -233,11 +241,3 @@
 </div>
 
 <br>
-
-<p align="center">
-  <i>"Consistency is the key to mastery. 🔑"</i>
-</p>
-
-<p align="center">
-  <sub><i>Last updated: 🚀 Today! (Keep refreshing for magic ✨)</i></sub>
-</p>
