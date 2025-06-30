@@ -201,6 +201,9 @@
   <a href="https://www.linkedin.com/in/samyog-dube/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.facebook.com/SAMYOG.DUBE">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Samyog Dube" 
+        </a>
   <a href="https://twitter.com/404" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
