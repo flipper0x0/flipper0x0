@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samyog;UI%2FUX+Designer;Cybersecurity+Enthusiast;Mobile+App+Devotee;Welcome+to+my+Tech+Journey+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samyog;Cybersecurity+Enthusiast;Mobile+App+Devotee;UI%2FUX+Designer;Welcome+to+my+Homee+%F0%9F%92%BB" alt="Typing SVG">
 </h3>
 
 <br>
@@ -21,7 +21,7 @@
   <a href="https://github.com/flipper0x0">
     <img src="https://img.shields.io/badge/GitHub-flipper0x0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://www.linkedin.com/in/samyog-/">
+  <a href="https://www.linkedin.com/in/samyog-dube/">
     <img src="https://img.shields.io/badge/LinkedIn-SAMYOG%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
     <a href="https://www.facebook.com/SAMYOG.DUBE">
@@ -62,13 +62,14 @@
 ## **👨‍💻 ABOUT ME**
 <div align="justify">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
-  Hi! I'm <b>Samyog Dube </b>, a <b>self-taught student</b> obsessed with <b>Full-Stack Development, Cybersecurity, and Mobile App Development</b>. I love reverse engineering, pentesting and breaking down things.
+  Hi! I'm <b>Samyog Dube </b>, a <b>3rd year CS student.</b> I love reverse engineering, pentesting and breaking down things.
   <br><br>
   <b>🔍 Currently Mastering:</b>
   <ul>
     <li>⚔️ <b>Offensive Security</b> (HTB)</li>
     <li>📱 <b>Flutter & Dart</b> </li>
     <li>🔒 <b>Cryptography</b> </li>
+    <li>🤖 <b>Automation</b> </li>
   </ul>
   <b>💡 Creed:</b> <i>"Code is poetry; security is its rhythm."</i>
 </div>
@@ -93,7 +94,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
       </td>
-      <td>👍 Level 1 (Learning)</td>
+      <td>👍 Level: ⭐ ⭐ ☆ ☆ ☆  (Learning)</td>
     </tr>
     <tr>
       <td><b>Backend</b></td>
@@ -102,7 +103,7 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
       </td>
-      <td>🚀 Level 1 (Building Projects)</td>
+      <td>🚀 Level: ⭐ ☆ ☆ ☆ ☆ </td>
     </tr>
     <tr>
       <td><b>Mobile Dev</b></td>
@@ -110,7 +111,7 @@
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
       </td>
-      <td>📚 Level 1 (Learning)</td>
+      <td>📚 Level: ⭐⭐⭐ ☆ ☆ </td>
     </tr>
     <tr>
       <td><b>Cybersecurity</b></td>
@@ -119,7 +120,7 @@
         <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
       </td>
-      <td>🔍 Level 1 (Ethical Hacking Basics)</td>
+      <td>🔍 Level: ⭐⭐⭐⭐☆ </td>
     </tr>
     <tr>
       <td><b>Tools</b></td>
@@ -128,35 +129,10 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
       </td>
-      <td>💻 Proficient</td>
+      <td>💻 Level: ⭐⭐⭐⭐☆</td>
     </tr>
   </table>
 </div>
-
-<br>
-
----
-
-## **📈 LEARNING JOURNEY & ROADMAP**
-<div align="center">
-  <img src="https://roadmap.sh/roadmaps/full-stack.png" alt="Full Stack Roadmap" width="80%">
-</div>
-
-### **Phase 1: Foundations (In Progress 🚧)**
-- ✅ **JavaScript Fundamentals**
-- ✅ **Python Basics**
-- 🔄 **React & REST APIs** 
-
-
-### **Phase 2: Specialization 🔝**
-- 🔜 **Flutter & Dart** 
-- 🔜 **Cybersecurity Intermediate**
-- 🔜 **Backend Mastery**
-  
-### **Phase 3: Mastery 🏆**
-- 🔮 **Red Teaming & Penetration Testing**
-- 🔮 **Publishing My Own SDK/Library**
-
 
 <br>
 
@@ -181,7 +157,7 @@
       <td><a href="https://github.com/flipper0x0/em-"><b>Python Automation Scripts</b></a></td>
       <td>File sorter, email sender</td>
       <td>Python, SMTP</td>
-      <td>📝 In Progress</td>
+      <td>In Progress 🚧</td>
     </tr>
     <tr>
       <td><b>Secure Chat App</b></td>
@@ -193,13 +169,18 @@
 </div>
 
 <br>
+<div align="center">Alert: <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg" alt="0-Percent Optimized"> <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="Works on My Machine"></div>
 
 ---
 
 ## **🏆 ACHIEVEMENTS & CERTIFICATIONS**
-- **Certified Ethical Hacker (CEH)**: 📚 Preparing
+- **AWS Cloud Practitioner**
+- **CCNA**
+- **CEH**
 
-
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/certified-yourboyserge.svg" alt="YEah... I am Certified...">
+</div>
 <br>
 
 ---
@@ -220,7 +201,7 @@
   <a href="https://www.linkedin.com/in/samyog-dube/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/404" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:not_a_real@proton.com">
@@ -229,18 +210,15 @@
 </div>
 
 
-<p align="center">
-  <i>"Consistency is the key to mastery. 🔑"</i>
-</p>
 
 <p align="center">
-  <sub><i>Last updated: 🚀 Today! (Keep refreshing for magic ✨)</i></sub>
+  <sub><i>Last updated: 🚀 30 June (Keep refreshing for magic ✨)</i></sub>
 </p>
 <br>
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
+  <img src="https://forthebadge.com/images/featured/featured-powered-by-electricity.svg">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
 </div>
 
