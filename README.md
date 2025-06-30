@@ -221,7 +221,6 @@
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/featured/featured-powered-by-electricity.svg">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
 </div>
 
